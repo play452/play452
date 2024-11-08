@@ -15,4 +15,4 @@
 
 ------------------------------------------------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=play452&theme=merko&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=play452&theme=merko&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=play452&theme=merko&show_icons=true&hide_border=true&count_private=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=play452&theme=merko)](https://git.io/streak-stats)
