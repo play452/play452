@@ -15,4 +15,4 @@
 
 ------------------------------------------------------------
 
-![GitHub Stats](https://ghrmes.vercel.app/api?username=play452&theme=merko&show_icons=true&hide_border=true&count_private=true) [![GitHub Streak](http://ghrmss.play451isthebest.eu.org?user=play452&theme=merko)](https://git.io/streak-stats)
+![GitHub Stats](https://ghrmes.vercel.app/api?username=play452&theme=merko&show_icons=true&hide_border=true&count_private=true) [![GitHub Streak](http://ghrmss.play451isthebest.eu.org?user=play452&theme=merko&border_radius=0)](https://git.io/streak-stats)
